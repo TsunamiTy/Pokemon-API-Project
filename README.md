@@ -1,4 +1,4 @@
-# Pokemon-API-Project
+# The Pokédex Pinpointer
 An application that uses a Pokemon API to gather and distribute Pokemon names and their Pokedex number.  
 
 ## Technologies Used
@@ -15,7 +15,7 @@ An application that uses a Pokemon API to gather and distribute Pokemon names an
 ![](https://i.imgur.com/VW9oRMv.png)
 
 ## Getting Started
-Click [Here](http://127.0.0.1:5500/HTML/) to launch the app!
+Click [Here](https://pokemon-api-project-1.vercel.app/) to launch the app!
 
 ## Future Enhancements
 - Adding a picture when you search for a pokemon
